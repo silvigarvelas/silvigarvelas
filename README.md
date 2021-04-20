@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @silvigarvelas
 - 👀 I’m interested in get a job 
-- 🌱 I’m currently learning Programming
+- 🌱 I’m currently learning Programming (JAVA)
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me silvigarvelas@hotmail.com
 
